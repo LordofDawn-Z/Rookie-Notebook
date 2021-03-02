@@ -4,14 +4,11 @@
 
 ## 1. Getting started
 ### 1.1 Getting familiar with Github/Github desktop
-<br/>
 
 [0基础的git教程，傻瓜都会用的Github Desktop](https://www.jianshu.com/p/06a960d991aa)
 <br/>
 
 ### 1.2 Getting familiar with Markdown
-<br/>
-
 [献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
 <br/>
 
@@ -22,8 +19,6 @@
 <br/>
 
 ### 1.3 Writting your own README.md
-<br/>
-
 [Github README.md编写指南](https://blog.csdn.net/baidu_26646129/article/details/86700069)
 <br/>
 
