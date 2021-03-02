@@ -1,7 +1,6 @@
 # **Rookie-Notebook**
 ### **This repo is built to record the learning experience of bioinformatics.**
 ---
-<br/>
 
 ## 1. Getting started
 ### 1.1 Getting familiar with Github/Github desktop
