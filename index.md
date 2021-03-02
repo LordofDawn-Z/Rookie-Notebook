@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# **Rookie-Notebook**
+### **This repo is built to record the learning experience of bioinformatics.**
+---
 
-You can use the [editor on GitHub](https://github.com/LordofDawn-Z/Rookie-Notebook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 1. Getting started
+### 1.1 Getting familiar with Github/Github desktop
+<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[0基础的git教程，傻瓜都会用的Github Desktop](https://www.jianshu.com/p/06a960d991aa)
+<br/>
 
-### Markdown
+### 1.2 Getting familiar with Markdown
+<br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
+<br/>
 
-```markdown
-Syntax highlighted code block
+[Markdown编辑器中字号、颜色的设置方法及一些好看的颜色示例](https://blog.csdn.net/Sherlooock/article/details/105549482?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-2&spm=1001.2101.3001.4242)
+<br/>
 
-# Header 1
-## Header 2
-### Header 3
+[Markdown-图片设置（大小，居中）](https://blog.csdn.net/qq_35451572/article/details/79443467)
+<br/>
 
-- Bulleted
-- List
+### 1.3 Writting your own README.md
+<br/>
 
-1. Numbered
-2. List
+[Github README.md编写指南](https://blog.csdn.net/baidu_26646129/article/details/86700069)
+<br/>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LordofDawn-Z/Rookie-Notebook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+<div align=center>
+<img src="92133596_636243753886758_4898576175804186624_n.jpg" width=40% height=40%/>
+</div>
